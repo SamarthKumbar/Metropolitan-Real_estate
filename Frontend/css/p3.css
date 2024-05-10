@@ -110,8 +110,11 @@ h2 {
 		text-align: center;
 }
 
+h1{
+   text-align: center;
+}
 .img {
-    background: url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9vbCUyMGhvdXNlfGVufDB8fDB8fHww&w=1000&q=80');
+    background: url('https://as2.ftcdn.net/v2/jpg/04/84/47/27/1000_F_484472702_acpl3SZTBwb2Al4ZiW8VusICp7Utl8ed.jpg');
       background-repeat: no-repeat;
     background-size: auto;
     background-size:100% 100%;
